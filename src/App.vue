@@ -4,7 +4,7 @@ import socksGreenImage from './assets/images/socks_green.jpeg'
 
 const product = ref('Socks')
 const image = ref(socksGreenImage)
-const myUrl = 'https://google.com'
+const myUrl = ref('https://google.com')
 
 </script>
   
